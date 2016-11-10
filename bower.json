@@ -1,0 +1,17 @@
+{
+  "name": "mean-app",
+  "description": "",
+  "main": "server/index.js",
+  "authors": [
+    "andrewallison2012 <andrewallison2012@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
