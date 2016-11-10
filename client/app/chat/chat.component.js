@@ -1,6 +1,6 @@
 'use strict';
 // import { Component } from "@angular/core";
-// import * as globalVars from "../service/global";
+var globalVars = require("../service/global");
 
 // import "/socket.io/socket.io.js";
 
