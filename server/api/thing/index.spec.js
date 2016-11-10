@@ -54,7 +54,7 @@ describe('Thing API Router:', function() {
     it('should route to thing.controller.create', function() {
       routerStub.post
         .withArgs('/', 'thingCtrl.create')
-        .should.have.been.calledOnce;
+         .should.have.been.calledOnce;
     });
   });
 
